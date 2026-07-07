@@ -18,3 +18,5 @@ Mijn persoonlijke skill-bibliotheek voor Claude (Cowork & Claude Code): 32 zelfg
 ## Noot
 
 De cheatsheet bevat naast mijn eigen skills ook de inhoud van Anthropic-basis- en pluginskills (elders publiek beschikbaar); de skills in `skills/` zijn vrij te gebruiken en aan te passen.
+
+## made with claude 
